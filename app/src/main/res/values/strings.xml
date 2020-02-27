@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_feitas">Feitas</string>
+    <string name="menu_pendentes">Pendentes</string>
+    <string name="menu_sair">Sair</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="informe_todos_campos">Informe todos os campos!</string>
+    <string name="erro_default">Ops... Houve um erro inesperado</string>
+    <string name="email_cadastrado">O email informado já está cadastrado!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="entrar">Entrar</string>
+    <string name="usuario_senha_incorretos">Usuário e/ou senha inválidos.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descricao">Descrição</string>
+    <string name="incluida_sucesso">Tarefa incluída com sucesso!</string>
+    <string name="tarefa_alterada_sucesso">Tarefa alterada com sucesso!</string>
+    <string name="tarefa_removida_sucesso">Tarefa removida com sucesso!</string>
+    <string name="adicionar_tarefa">Adicionar tarefa</string>
+    <string name="atualizar_tarefa">Atualizar Tarefa</string>
+    <string name="prioridade_tarefa">Prioridade</string>
+</resources>
